@@ -4,10 +4,10 @@ The Blood Bank System is designed to manage blood donation and distribution effi
 ## Team Members
 This project was completed by a team of four coursemates:
 
-Noushin Norjahan – Database Administrator & Backend Developer
-Protik Hasan – Frontend & Backend Developer
-Md. Salam Inkead Sopen – Frontend Developer & UI/UX Designer
-Riyad Hossain – Testing & Documentation
+- Noushin Norjahan – Database Administrator & Backend Developer
+- Protik Hasan – Frontend & Backend Developer
+- Md. Salam Inkead Sopen – Frontend Developer & UI/UX Designer
+- Riyad Hossain – Testing & Documentation
 
 ## Table of Contents
 
